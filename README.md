@@ -14,7 +14,7 @@ This is a responsive and beginner-friendly **Login Form** created using HTML and
 
 ## 📷 Preview
 
-![Login Form Screenshot](myfirstpro\screenshort.png)
+![Login Form Screenshot][def]
 
 > You can take a screenshot of the form and save it as `screenshot.png` in the project folder to display it here.
 
@@ -46,3 +46,5 @@ This is a responsive and beginner-friendly **Login Form** created using HTML and
 
 Created by **Urvashi Rakholiya**  
 Feel free to connect on [GitHub](https://github.com/Urvashi80)
+
+[def]: myfirstproimg\screenshot.png
